@@ -5,7 +5,7 @@ body{
 }
 
 header{
-    background:blue;
+    background:white;
     padding:20px;
     text-align:center;
     box-shadow:0 2px 10px rgba(0,0,0,.1);
@@ -28,5 +28,5 @@ header{
 }
 
 .card:hover{
-    transform:scale(2.02);
+    transform:scale(1.02);
 }
